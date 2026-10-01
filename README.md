@@ -44,25 +44,49 @@ Build • Experiment • Learn • Repeat
 
 <div align="center"><table>
 <tr>
-<td>╔══════════════════════════════════════════════════╗
-║                 RAKESH.DEV                      ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  ROLE          →  AI Developer                  ║
-║  EDUCATION     →  B.Tech Artificial Intelligence║
-║  MODE          →  BUILD / LEARN / EXPERIMENT    ║
-║                                                  ║
-║  CORE          →  AI • WEB • DATABASE           ║
-║  EXPLORING     →  LLM • RAG • OCR • LOCAL AI    ║
-║  CREATIVE      →  DESIGN • UI • VIDEO           ║
-║                                                  ║
-║  MISSION       →  Build useful technology.      ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+<td align="center" colspan="2">⚡ RAKESH.DEV
+
+"AI DEVELOPER"  •  "BUILDER"  •  "CREATOR"
+
+</td>
+</tr><tr>
+<td align="center" width="50%">👨‍💻 ROLE
+
+AI Developer
+
+</td><td align="center" width="50%">🎓 EDUCATION
+
+B.Tech Artificial Intelligence
+
+</td>
+</tr><tr>
+<td align="center">🧠 CORE
+
+AI • Web • Database
+
+</td><td align="center">🔬 EXPLORING
+
+LLM • RAG • OCR
+
+</td>
+</tr><tr>
+<td align="center">🎨 CREATIVE
+
+UI • Design • Video
+
+</td><td align="center">⚡ MODE
+
+Build • Learn • Experiment
+
+</td>
+</tr><tr>
+<td align="center" colspan="2">🎯 MISSION
+
+Turn ideas into useful technology.
 
 </td>
 </tr>
-</table></div>---
+</table><br><img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00FFFF?style=for-the-badge&labelColor=000000"/></div>
 
 🧠 "03 / AI CORE"
 
