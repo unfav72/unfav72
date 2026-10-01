@@ -1,24 +1,20 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:2D0A4E,75:8B5CF6,100:EC4899&height=250&section=header&text=RAKESH&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20CREATOR&descAlignY=62&descSize=17&descColor=E9D5FF"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=%3E+Initializing+Rakesh.dev...;%3E+Artificial+Intelligence+%2B+Software;%3E+Building+real-world+solutions;%3E+Exploring+LLMs+%7C+RAG+%7C+OCR;%3E+System+ready+%E2%9A%A1"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:2D0A4E,75:8B5CF6,100:EC4899&height=240&section=header&text=RAKESH&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20CREATOR&descAlignY=62&descSize=17&descColor=E9D5FF"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=%3E+Initializing+Rakesh.dev...;%3E+Artificial+Intelligence+%2B+Software;%3E+Building+real-world+solutions;%3E+Exploring+LLMs+%7C+RAG+%7C+OCR;%3E+System+ready+%E2%9A%A1"/><br><br>
 
 <a href="https://github.com/Unfav72">
-<img src="https://img.shields.io/badge/GITHUB-UNFAV72-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=16002B"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rakesh-chinnathurai-269933358/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-C084FC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=16002B"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/ft.rxcky/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@FT.RXCKY-EC4899?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=16002B"/>
+<img src="https://img.shields.io/badge/⌂%20GITHUB-8B5CF6?style=for-the-badge&labelColor=090014"/>
+</a><a href="https://www.linkedin.com/in/rakesh-chinnathurai-269933358/">
+<img src="https://img.shields.io/badge/↗%20LINKEDIN-A855F7?style=for-the-badge&labelColor=090014"/>
+</a><a href="https://www.instagram.com/ft.rxcky/">
+<img src="https://img.shields.io/badge/◎%20INSTAGRAM-EC4899?style=for-the-badge&labelColor=090014"/>
 </a></div>---
 
-<div align="center">"✦ 01 / SYSTEM PROFILE"
+<div align="center">"✦ SYSTEM PROFILE"
 
 "RAKESH.DEV"
 
 AI DEVELOPER · BUILDER · CREATOR
 
-<br>"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+<br>"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 🎓 B.Tech Artificial Intelligence
 
@@ -28,63 +24,56 @@ AI DEVELOPER · BUILDER · CREATOR
 
 🎨 UI · Graphic Design · Video Editing
 
-"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-<br>MISSION
+<br>«Turning ideas into useful technology.»
 
-«Turning ideas into useful technology.»
-
-<br>"Status" (https://img.shields.io/badge/●%20SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=090014)
+<br>"ONLINE" (https://img.shields.io/badge/●%20SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=090014)
 
 </div>---
 
-🧠 "✦ 02 / ABOUT ME"
+🧠 "01 / ABOUT"
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│  👋 Hey, I'm Rakesh                         │
-│                                              │
-│  B.Tech Artificial Intelligence student      │
-│  building practical technology through       │
-│  AI, software and creativity.                │
-│                                              │
-│  I enjoy experimenting with                  │
-│  • Artificial Intelligence                   │
-│  • Generative AI                             │
-│  • Web Development                           │
-│  • Database Systems                          │
-│  • Automation                                │
-│  • UI / Graphic Design                       │
-│                                              │
-╰──────────────────────────────────────────────╯
+<div align="center">I'm a B.Tech Artificial Intelligence student interested in building practical technology.
 
----
-
-⚙️ "✦ 03 / TECH ARSENAL"
-
-<div align="center">"PROGRAMMING"
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5"/><br><br>
-
-"SQL" (https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=16002B)
+<br>"AI"   •   "SOFTWARE"   •   "DATABASES"   •   "DESIGN"
 
 <br><br>
 
-"BACKEND & DATABASE"
+I enjoy experimenting with AI-powered applications, web development,
+database systems, automation and creative technology.
 
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&theme=dark&perline=3"/><br><br>
+</div>---
 
-"DEVELOPMENT"
+⚙️ "02 / TECH STACK"
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"/><br><br>
+<div align="center">"LANGUAGES"
 
-"AI TOOLS"
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/><br><br>
 
-"Gemini API" (https://img.shields.io/badge/GEMINI_API-8B5CF6?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=16002B)
+"SQL" (https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=090014)
 
-"Ollama" (https://img.shields.io/badge/OLLAMA-EC4899?style=for-the-badge&logo=ollama&logoColor=FFFFFF&labelColor=16002B)
+<br><br>
 
-"Tesseract OCR" (https://img.shields.io/badge/TESSERACT_OCR-A855F7?style=for-the-badge&labelColor=16002B)
+"BACKEND"
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/><br><br>
+
+"DATABASE"
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/><br><br>
+
+"TOOLS"
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/><br><br>
+
+"AI"
+
+"Gemini" (https://img.shields.io/badge/GEMINI_API-8B5CF6?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=090014)
+
+"Ollama" (https://img.shields.io/badge/OLLAMA-A855F7?style=for-the-badge&logo=ollama&logoColor=FFFFFF&labelColor=090014)
+
+"Tesseract" (https://img.shields.io/badge/TESSERACT_OCR-EC4899?style=for-the-badge&labelColor=090014)
 
 <br><br>
 
@@ -92,55 +81,63 @@ AI DEVELOPER · BUILDER · CREATOR
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/> 
 
-"Canva" (https://img.shields.io/badge/CANVA-EC4899?style=for-the-badge&logo=canva&logoColor=FFFFFF&labelColor=16002B)
+"Canva" (https://img.shields.io/badge/CANVA-EC4899?style=for-the-badge&logo=canva&logoColor=FFFFFF&labelColor=090014)
 
 </div>---
 
-🚀 "✦ 04 / PROJECTS"
+🚀 "03 / PROJECTS"
 
-<div align="center">🏛️ "LAND RECORD AI" (YOUR_REPOSITORY_URL)
+<div align="center">🏛️ LAND RECORD AI
 
-"AI" · "OCR" · "FASTAPI"
+Intelligent Land Record Digitization System
 
-<br>Intelligent Land Record Digitization System
+<br>"AI" · "OCR" · "FASTAPI"
 
-"SCAN" → "OCR" → "EXTRACT" → "REVIEW" → "VALIDATE"
+<br><br>
 
----
+<a href="YOUR_LAND_RECORD_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-8B5CF6?style=for-the-badge&labelColor=090014"/>
+</a>---
 
-🔎 "LOST & FOUND" (YOUR_REPOSITORY_URL)
+🔎 LOST & FOUND
 
-"SQL" · "DBMS" · "WEB"
+Smart Lost & Found Platform
 
-<br>Smart Lost & Found Platform
+<br>"SQL" · "DBMS" · "WEB"
 
-"REPORT" → "SEARCH" → "MATCH" → "VERIFY"
+<br><br>
 
----
+<a href="YOUR_LOST_FOUND_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-A855F7?style=for-the-badge&labelColor=090014"/>
+</a>---
 
-💰 "PERSONAL FINANCE" (YOUR_REPOSITORY_URL)
+💰 PERSONAL FINANCE
 
-"WEB" · "SQL"
+Personal Finance Management Platform
 
-<br>Personal Finance Management Platform
+<br>"WEB" · "SQL"
 
-"TRACK" → "CATEGORIZE" → "ANALYZE"
+<br><br>
 
----
+<a href="YOUR_FINANCE_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-C084FC?style=for-the-badge&labelColor=090014"/>
+</a>---
 
-🧠 "AI / RAG LAB" (YOUR_REPOSITORY_URL)
+🧠 AI / RAG LAB
 
-"LLM" · "RAG" · "LOCAL AI"
+AI Experimentation Workspace
 
-<br>Experimental AI Workspace
+<br>"LLM" · "RAG" · "LOCAL AI"
 
-"DATA" → "RETRIEVE" → "GENERATE" → "RESPOND"
+<br><br>
 
-</div>---
+<a href="YOUR_AI_RAG_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-EC4899?style=for-the-badge&labelColor=090014"/>
+</a></div>---
 
-🔬 "✦ 05 / CURRENTLY EXPLORING"
+🔬 "04 / CURRENTLY EXPLORING"
 
-<div align="center">"Generative AI" (https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=090014)
+<div align="center">"GENERATIVE AI" (https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=090014)
 
 "LLMs" (https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge&labelColor=090014)
 
@@ -150,21 +147,19 @@ AI DEVELOPER · BUILDER · CREATOR
 
 <br><br>
 
-"Local AI" (https://img.shields.io/badge/LOCAL_AI-8B5CF6?style=for-the-badge&labelColor=090014)
+"LOCAL AI" (https://img.shields.io/badge/LOCAL_AI-8B5CF6?style=for-the-badge&labelColor=090014)
 
-"Web Apps" (https://img.shields.io/badge/WEB_APPLICATIONS-A855F7?style=for-the-badge&labelColor=090014)
+"WEB" (https://img.shields.io/badge/WEB_APPLICATIONS-A855F7?style=for-the-badge&labelColor=090014)
 
-"Database Systems" (https://img.shields.io/badge/DATABASE_SYSTEMS-C084FC?style=for-the-badge&labelColor=090014)
-
-"Automation" (https://img.shields.io/badge/AI_AUTOMATION-EC4899?style=for-the-badge&labelColor=090014)
+"DATABASE" (https://img.shields.io/badge/DATABASE_SYSTEMS-C084FC?style=for-the-badge&labelColor=090014)
 
 </div>---
 
-🎨 "✦ 06 / CREATIVE SIDE"
+🎨 "05 / CREATIVE"
 
 <div align="center">🎨 GRAPHIC DESIGN
 
-"Visual Identity" · "Branding" · "Creative Design"
+"Branding" · "Visual Design" · "Creative Content"
 
 <br>🖥️ UI DESIGN
 
@@ -172,85 +167,74 @@ AI DEVELOPER · BUILDER · CREATOR
 
 <br>🎬 VIDEO EDITING
 
-"Editing" · "Visual Storytelling" · "Content"
+"Editing" · "Visual Storytelling"
 
 </div>---
 
-🛠️ "✦ 07 / HOW I BUILD"
+🛠️ "06 / BUILD PROCESS"
 
-<div align="center">       💡 IDEA
-          │
-          ▼
-      🎨 DESIGN
-          │
-          ▼
-      💻 BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-       🚀 SHIP
-          │
-          ▼
-       🧠 LEARN
-          │
-          └──────────► REPEAT
+<div align="center">"💡 IDEA"
 
-<br>"Build" (https://img.shields.io/badge/BUILD-8B5CF6?style=for-the-badge&labelColor=090014)
-→
-"Break" (https://img.shields.io/badge/BREAK-A855F7?style=for-the-badge&labelColor=090014)
-→
-"Fix" (https://img.shields.io/badge/FIX-C084FC?style=for-the-badge&labelColor=090014)
-→
-"Learn" (https://img.shields.io/badge/LEARN-EC4899?style=for-the-badge&labelColor=090014)
+↓
+
+"🎨 DESIGN"
+
+↓
+
+"💻 BUILD"
+
+↓
+
+"🧪 TEST"
+
+↓
+
+"🚀 SHIP"
+
+↓
+
+"🧠 LEARN"
+
+<br>BUILD → BREAK → FIX → LEARN → REPEAT
 
 </div>---
 
-📡 "✦ 08 / CONNECT"
+📡 "07 / CONNECT"
 
-<div align="center">📧 EMAIL
+<div align="center">LET'S BUILD SOMETHING.
 
-<a href="mailto:chinnarocky727@gmail.com">
-<img src="https://img.shields.io/badge/chinnarocky727%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=16002B"/>
-</a><br><br>
-
-📱 PHONE
-
-<a href="tel:6380871699">
-<img src="https://img.shields.io/badge/6380871699-A855F7?style=for-the-badge&logo=phone&logoColor=FFFFFF&labelColor=16002B"/>
-</a><br><br>
-
-📸 INSTAGRAM
-
-<a href="https://www.instagram.com/ft.rxcky/">
-<img src="https://img.shields.io/badge/@FT.RXCKY-EC4899?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=16002B"/>
+<br><a href="mailto:chinnarocky727@gmail.com">
+<img src="https://img.shields.io/badge/✉%20EMAIL-8B5CF6?style=for-the-badge&labelColor=090014"/>
+</a><a href="tel:6380871699">
+<img src="https://img.shields.io/badge/☎%20PHONE-A855F7?style=for-the-badge&labelColor=090014"/>
+</a><a href="https://www.instagram.com/ft.rxcky/">
+<img src="https://img.shields.io/badge/◎%20INSTAGRAM-EC4899?style=for-the-badge&labelColor=090014"/>
 </a><br><br>
 
 <a href="https://github.com/Unfav72">
-<img src="https://img.shields.io/badge/GITHUB-UNFAV72-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=16002B"/>
-</a> 
-
-<a href="https://www.linkedin.com/in/rakesh-chinnathurai-269933358/">
-<img src="https://img.shields.io/badge/LINKEDIN-RAKESH-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=16002B"/>
+<img src="https://img.shields.io/badge/⌂%20GITHUB-8B5CF6?style=for-the-badge&labelColor=090014"/>
+</a><a href="https://www.linkedin.com/in/rakesh-chinnathurai-269933358/">
+<img src="https://img.shields.io/badge/↗%20LINKEDIN-A855F7?style=for-the-badge&labelColor=090014"/>
 </a></div>---
 
 <div align="center">"⚡ SYSTEM STATUS"
 
-<br>"AI" (https://img.shields.io/badge/AI_MODE-ACTIVE-8B5CF6?style=for-the-badge&labelColor=090014)
+<br>"● AI MODE — ACTIVE"
 
-"BUILD" (https://img.shields.io/badge/BUILDING-ONLINE-A855F7?style=for-the-badge&labelColor=090014)
+  
 
-"LEARNING" (https://img.shields.io/badge/LEARNING-CONTINUOUS-C084FC?style=for-the-badge&labelColor=090014)
+"● BUILDING — ONLINE"
+
+  
+
+"● LEARNING — CONTINUOUS"
 
 <br><br>
 
-╭──────────────────────────────────────────╮
-│                                          │
-│       RAKESH.DEV // ONLINE ⚡            │
-│                                          │
-│       BUILD • LEARN • CREATE             │
-│                                          │
-╰──────────────────────────────────────────╯
+<img src="https://img.shields.io/badge/RAKESH.DEV-ONLINE-FFFFFF?style=for-the-badge&labelColor=16002B"/><br><br>
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:2D0A4E,75:8B5CF6,100:EC4899&height=140&section=footer"/></div>
+BUILD · LEARN · CREATE
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:2D0A4E,75:8B5CF6,100:EC4899&height=140&section=footer"/></div>
